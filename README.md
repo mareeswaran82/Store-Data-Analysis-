@@ -1,4 +1,4 @@
-📊** Sales Dashboard Project | Power BI**
+###📊Sales Dashboard Project | Power BI
 
 📝 Project Description:
 
