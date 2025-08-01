@@ -1,13 +1,13 @@
-📊Sales Dashboard Project | Power BI
+### 📊Sales Dashboard Project | Power BI
 
-📝 Project Description:
+### 📝 Project Description:
 
 This project involves building an interactive and business-focused Sales Dashboard using Power BI, where the dataset consists of 4 related tables. The goal was to structure, model, and visualize sales data in a way that supports clear business insights.
 
 
 ---
 
-📂 Dataset Overview:
+### 📂 Dataset Overview:
 
 Total Tables: 4
 
@@ -19,7 +19,7 @@ Remaining 3 tables used as Dimension Tables
 
 ---
 
-🔧 Project Workflow & Techniques:
+### 🔧 Project Workflow & Techniques:
 
 1. Data Modeling & Relationships:
 
@@ -63,14 +63,14 @@ Ensured dynamic calculations based on user-selected filters.
 
 ---
 
-🎯 Outcome:
+### 🎯 Outcome:
 
 Delivered an interactive, easy-to-understand Power BI Dashboard that visualizes sales performance trends, variable relationships, and meets business analysis expectations.
 
 
 ---
 
-🛠️ Tools & Technologies Used:
+### 🛠️ Tools & Technologies Used:
 
 Power BI
 
